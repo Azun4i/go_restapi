@@ -1,0 +1,4 @@
+bind_addr = ":9000"
+database_url = "host=localhost user=azunai password=0000 dbname=restdb sslmode=disable"
+#database_url = "host=localhost port=5432 user=azunai password=1111 dbname=myrestdb sslmode=disable"
+log_level = "debug"
